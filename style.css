@@ -20,7 +20,7 @@
   }
  .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 56px;
     font-size: 56px;
  }
 
@@ -30,7 +30,7 @@
  }
 
  .escola-imagem {
-    width: 780px;
+    width: 700px;
     height: 600px;
  }
 
@@ -92,4 +92,7 @@
     height: 300px;
     padding: 8px 0;
     
+ }
+ .escola-texto-um{
+   height: 20px;
  }
