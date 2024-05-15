@@ -20,8 +20,8 @@
   }
  .cabecalho-lista-item {
     display: inline-block;
-    margin: 0 130px;
-    font-size: 76px;
+    margin: 0 30px;
+    font-size: 50px;
  }
 
  .cabecalho-lista-item a {
@@ -36,7 +36,7 @@
 
  #escola {
     background-image: linear-gradient(#f1f4f8, #000000);
-    color: rgb(255, 38, 0);
+    color: rgb(24, 23, 24);
     display: flex;
     justify-content: center;
     padding:36px 0;
@@ -94,5 +94,8 @@
     
  }
  .escola-texto-um{
-   height: 20px;
+   height: 100px;
+ }
+ .escola-texto-dois{
+   height: 100px;
  }
