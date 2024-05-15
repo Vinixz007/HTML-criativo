@@ -80,6 +80,7 @@
 
  .estudante-todos {
     display: grid;
+    color: white;
     grid-template-columns: 20% 20% 20% 20% 20%;
  }
 
